@@ -20,7 +20,7 @@ E no final o resultado será esse 👇🏼
 
 ## Screenshots 📷
 <h1 align="center">
-    <img alt="" title="#teste" src="https://github.com/siiqueiira/previsao_tempo/blob/main/Captura%20de%20tela.png"/>
+    <img alt="" title="#teste" src="https://github.com/siiqueiira/calculadora/blob/main/Screenshot.png"/>
 </h1>
 
 Obrigado! ❤
