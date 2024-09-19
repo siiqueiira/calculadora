@@ -1,4 +1,4 @@
-# Projeto_Calculadora 👨🏼‍💻🌧️
+# Projeto_Calculadora 👨🏼‍💻
 
 ## Tecnologias 💻
 Esse projeto foi desenvolvido com as seguintes tecnologias:
